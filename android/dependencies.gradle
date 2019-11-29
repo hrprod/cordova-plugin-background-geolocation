@@ -8,4 +8,5 @@ dependencies {
     }
     // promises
     compile 'com.github.jparkie:promise:1.0.3'
+    compile 'commons-io:commons-io:2.4'
 }
